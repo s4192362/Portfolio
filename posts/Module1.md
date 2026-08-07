@@ -1,4 +1,4 @@
-# Module 1
+# $\color{#833299}\textsf{Module 1}$
 7/08/2026
 
 ## Part 1: Draw it like Playfair, Minard and Nightingale
@@ -22,7 +22,7 @@
 
 ---
 ### Personal Reflection
-My main reflection on this task is poor time management leading to a visualization draw without a ruler and limited art supplies.... So in addition to the obvious improvement of having a proper scale I think I would change the colored lines from running __ __horizontally and vertically__ __ to running at _ _opposite diagonals_ _ keeping the contrast but reducing extreme clashing the current effect has. 
+My main reflection on this task is poor time management leading to a visualization draw without a ruler and limited art supplies.... So in addition to the obvious improvement of having a proper scale I think I would change the colored lines from running __horizontally and vertically__ to running at _opposite diagonals_ keeping the contrast but reducing extreme clashing the current effect has. 
 
 
 ### References
