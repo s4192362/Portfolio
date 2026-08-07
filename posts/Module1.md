@@ -22,7 +22,7 @@
 
 ---
 ### Personal Reflection
-My main reflection on this task is poor time management leading to a visualization draw without a ruler and limited art supplies.... So in addition to the obvious improvement of having a proper scale I think I would change the colored lines from running __horizontally and vertically__ to running at _opposite diagonals_ keeping the contrast but reducing extreme clashing the current effect has. 
+My main reflection on this task is poor time management leading to a visualization draw without a ruler and limited art supplies.... So in addition to the obvious improvement of having a proper scale I think I would change the colored lines from running __horizontally and vertically__ to running at _opposite diagonals_ keeping the contrast but reducing extreme clashing the current effect has. I plan to learn from this and not make the same mistakes for future Bundles. 
 
 
 ### References
