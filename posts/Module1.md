@@ -1,4 +1,5 @@
 # Module 1
+7/08/2026
 
 ## Part 1: Draw it like Playfair, Minard and Nightingale
 
@@ -13,11 +14,16 @@
 
 #### Stage 1: Initial Conceptual Sketching
 ![Stage 1 Sketch](/IMG/Module1_prog.jpeg)
-*Figure 1: Initial layout and rough axis setup.*
+*Figure 1: Initial layout and rough scaling.*
 
 ### Final Visualisation
 ![Final Hand-Drawn Visualisation](/IMG/Module1_final.jpeg)
-*Figure 3: Completed hand-drawn data visualisation.*
+*Figure 3: Completed hand-drawn data visualization.*
 
 ---
 ### Personal Reflection
+My main reflection on this task is poor time management leading to a visualization draw without a ruler and limited art supplies.... So in addition to the obvious improvement of having a proper scale I think I would change the colored lines from running __ __horizontally and vertically__ __ to running at _ _opposite diagonals_ _ keeping the contrast but reducing extreme clashing the current effect has. 
+
+
+### References
+Pew Research Center. (2025, December 15). Our favorite data visualizations of 2025. Retrieved from Pew Research Center: https://www.pewresearch.org/short-reads/2025/12/15/our-favorite-data-visualizations-of-2025/sr_25-12-15_data-visualizations_5/
