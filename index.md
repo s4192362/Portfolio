@@ -1,6 +1,6 @@
-# Data Visualization Portfolio
+# $\color{#833299}\textsf{Data Visualization Portfolio}$
 
-$\color{#0000ff}\textsf{Welcome to my portfolio}$
+Welcome to my portfolio
 
 ![Final Visualisation](/IMG/sadCat.jpg)
 
