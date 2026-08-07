@@ -1,8 +1,8 @@
 # Data Visualization Portfolio
 
-Welcome to my portfolio
+$\color{#0000ff}\textsf{Welcome to my portfolio}$
 
-
+![Final Visualisation](/IMG/sadCat.jpg)
 
 ## Portfolio Modules & Posts
 
