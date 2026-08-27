@@ -9,3 +9,5 @@ Welcome to my portfolio
 ### [Module 1](./posts/Module1.md)
 
 ### [Module 2](./posts/Module2.md)
+
+### [Module 3](./posts/Module3.md)
