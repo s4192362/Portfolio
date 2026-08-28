@@ -1,10 +1,10 @@
-# $\color{#833299}\textsf{Module 3}$
+# <span style="color:purple">Module 3</span>
 28/08/2026
 
 ## Verifying Data Visualizations
 
 ### Overview & Reference
-![Reference IMG](/IMG/us-cities-growing-or-declining-rent-prices.jpg)
+![Reference IMG](../IMG/us-cities-growing-or-declining-rent-prices.jpg)
 * **Reference:** Irena. (2021, June 4). Top 10 U.S. Cities by Fastest Growing and Declining Rent Prices. Retrieved from HowMuch: https://howmuch.net/articles/top-10-us-cities-by-fastest-growing-or-declining-rent-prices 
 
 ### Summary of the objective
