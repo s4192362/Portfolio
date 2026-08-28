@@ -22,5 +22,4 @@ Level of proficiency: experienced
 ### Doing things in a timely manner
 
 Level of proficiency: expert
-
-:3
+\>.<
