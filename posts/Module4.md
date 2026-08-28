@@ -1,19 +1,26 @@
-# $\color{#833299}\textsf{Module 4}$
+# <span style="color:purple">Module 4</span>
 28/08/2026
 
 ## Technical Skills
-
 
 
 ### Python
 
 Level of proficiency: experienced
 
-https://www.datacamp.com/completed/statement-of-accomplishment/course/06775563495e050b2744e5d17eeb2c6a83637e85?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
-
+![Reference IMG](../IMG/IntroPython_Certificate.jpeg)
 
 ### Data Visualization using Python
 
 Level of proficiency: experienced
 
-https://www.datacamp.com/completed/statement-of-accomplishment/course/75b784d4d05136fe9a57b374967a2febe816430b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
+![Reference IMG](../IMG/IntroDataVis_Certificate.png)
+
+
+## Not so technical skills
+
+### Doing things in a timely manner
+
+Level of proficiency: expert
+
+:3
