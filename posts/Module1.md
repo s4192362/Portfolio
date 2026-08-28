@@ -1,4 +1,4 @@
-# $\color{#833299}\textsf{Module 1}$
+# <span style="color:purple">Module 1</span>
 7/08/2026
 
 ## Part 1: Draw it like Playfair, Minard and Nightingale
