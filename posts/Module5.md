@@ -11,7 +11,7 @@
 This exercise served to test data visualization building skills learnt in the previous module task by reverse-engineering a professional data visualization
 
 * Parsed the raw text file, splitting each 4-digit PIN into coordinates
-* And pin usage frequency being the value each coordinate in the 100x100 matrix
+* Pin usage frequency was the value assigned to each coordinate in the 100x100 matrix
 * Built the heatmap plot
 * Applied logarithmic normalization to the custom heatmap color scale
 * Added annotations and labels to the visualization 
