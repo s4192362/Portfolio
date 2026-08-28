@@ -1,5 +1,4 @@
-# <p style="color: #833299;">Data Visualization Portfolio}</p>
-
+# <span style="color:purple">Data Visualization Portfolio</span>
 Welcome to my portfolio
 
 ![Final Visualisation](/IMG/sadCat.jpg)
