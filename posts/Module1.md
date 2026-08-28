@@ -6,18 +6,18 @@
 ### Overview & Data Selection
 * **Selected Topic/Data:** Christians were the majority in most countries as of 2020, but made up only 29% of the world’s population
 * **Context:** The visualization shows the majority religion in counties compared with a given religions global popularity 
-![Reference IMG](/IMG/Module1_ref.jpeg)
+![Reference IMG](../IMG/Module1_ref.jpeg)
 
 ---
 
 ### Process & Progress
 
 #### Stage 1: Initial Conceptual Sketching
-![Stage 1 Sketch](/IMG/Module1_prog.jpeg)
+![Stage 1 Sketch](../IMG/Module1_prog.jpeg)
 *Figure 1: Initial layout and rough scaling.*
 
 ### Final Visualisation
-![Final Hand-Drawn Visualisation](/IMG/Module1_final.jpeg)
+![Final Hand-Drawn Visualisation](../IMG/Module1_final.jpeg)
 *Figure 3: Completed hand-drawn data visualization.*
 
 ---
