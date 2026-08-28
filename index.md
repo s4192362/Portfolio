@@ -1,4 +1,4 @@
-# $\color{#833299}\textsf{Data Visualization Portfolio}$
+# <p style="color: #833299;">Data Visualization Portfolio}</p>
 
 Welcome to my portfolio
 
