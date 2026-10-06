@@ -14,3 +14,9 @@ Welcome to my portfolio
 ### [Module 4](./posts/Module4.md)
 
 ### [Module 5](./posts/Module5.md)
+
+### [Module 6](./posts/Module6.md)
+
+### [Module 7](./posts/Module7.md)
+
+### [Module 8](./posts/Module8.md)
