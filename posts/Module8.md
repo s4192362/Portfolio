@@ -12,8 +12,9 @@ This exercise served to explore spatial data visualisation
 
 * Parsed the raw data, filtered to 2021 and removed summary stats
 * Built the choropleth plot
-* Mapped countries using code provide in the dataset 
----
+* Mapped countries using code provide in the dataset
+
+
 ## Data Card
 
 | Title | Suicide rates across the world |
