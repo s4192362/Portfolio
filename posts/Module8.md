@@ -1,5 +1,5 @@
 # <span style="color:purple">Module 8</span>
-28/08/2026
+6/10/2026
 
 ## Map it
 
@@ -8,14 +8,11 @@
  
 
 ### Summary of the exercise
-This exercise served to test data visualization building skills learnt in the previous module task by reverse-engineering a professional data visualization
+This exercise served to explore spatial data visualisation 
 
-* Parsed the raw text file, splitting each 4-digit PIN into coordinates
-* Pin usage frequency was the value assigned to each coordinate in the 100x100 matrix
-* Built the heatmap plot
-* Applied logarithmic normalization to the custom heatmap color scale
-* Added annotations and labels to the visualization 
-
+* Parsed the raw data, filtered to 2021 and removed summary stats
+* Built the choropleth plot
+* Mapped countries using code provide in the dataset 
 ---
 ## Data Card
 
