@@ -1,7 +1,7 @@
 # <span style="color:purple">Module 10</span>
 "30/10/2026"
 
-## Map it
+## Multiplot it
 
 ### Created Data Visualization
 
@@ -10,11 +10,10 @@
 
 
 ### Summary of the exercise
-This exercise served to explore spatial data visualisation 
+This exercise was about designing and building a multiplot display
 
-* Parsed the raw data, filtered to 2021 and removed summary stats
-* Built the choropleth plot
-* Mapped countries using code provide in the dataset
+* Constructed a vertically stacked multi plot for retail fuel prices against crude oil prices
+* Added zoom functionality which is consistent for both plots and added stacked tool tip highlighting
 
 ## Data Card
 
