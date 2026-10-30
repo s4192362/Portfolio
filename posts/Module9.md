@@ -9,11 +9,10 @@
 
 
 ### Summary of the exercise
-This exercise served to explore spatial data visualisation 
+This exercise served to explore adding interactivity to data visualizations
 
-* Parsed the raw data, filtered to 2021 and removed summary stats
-* Built the choropleth plot
-* Mapped countries using code provide in the dataset
+* Added interactivity to the suicide choropleth map in the form of a slider for the years of the data and a hover for individual country stats
+
 
 ## Data Card
 
