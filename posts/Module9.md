@@ -4,7 +4,7 @@
 ## Map it
 
 ### Created Data Visualization
-<iframe src="[https://01a18b2f-1a85-e85c-2525-b4c9afe4a084.share.connect.posit.cloud/](https://01a18b2f-1a85-e85c-2525-b4c9afe4a084.share.connect.posit.cloud/)" width="100%" height="600px"></iframe>
+<iframe src="https://01a18b2f-1a85-e85c-2525-b4c9afe4a084.share.connect.posit.cloud/" width="100%" height="600px"></iframe>
 
 
 ### Summary of the exercise
