@@ -20,3 +20,7 @@ Welcome to my portfolio
 ### [Module 7](./posts/Module7.md)
 
 ### [Module 8](./posts/Module8.md)
+
+### [Module 9](./posts/Module9.md)
+
+### [Module 10](./posts/Module10.md)
